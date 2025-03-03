@@ -7,9 +7,9 @@
 <body>
   <!-- Display the GIF -->
   <div class="container">
-    <h1>Hi there! I'm Mert, your tech wizard 🧙‍♂️</h1>
-     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhzb2VmbThrMGhjNzAyb2d3aWRwZTdrM2I3dTE1eHFsOW1wYmlodiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Z3VgQu8hkVeB1bakS9/giphy.gif" alt="Tech Wizard GIF">
-    <img src="https://readme-typing-svg.herokuapp.com/?weight=700&size=21&color=4384F7&lines=Hey+friend!+Let's+code+some+magic!" alt="Mert's playful intro">   
+    <h1>🤘Hi there! I'm Mert, your rock star coder🎸</h1>
+     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWY5cXJycm82dmZiY3QybDVlbmxyZmJ0MmNvN2V5NDg2aGF5NTRtdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yr6VVsb27K0es/giphy.gif" alt="Tech Wizard GIF">
+   <div class="tech-badges" style="text-align:center; margin-top: 20px;">
     <div class="tech-badges" style="text-align:center; margin-top: 20px;">
       <!-- C++ -->
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge">
